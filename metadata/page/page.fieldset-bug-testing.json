@@ -16,7 +16,7 @@
       "legend": "Required date",
       "namespace": "namespace_auto__1",
       "repeatable": true,
-      "repeatableMaximum": 5
+      "repeatableMaximum": 4
     }
   ],
   "heading": "Fieldset bug testing",
