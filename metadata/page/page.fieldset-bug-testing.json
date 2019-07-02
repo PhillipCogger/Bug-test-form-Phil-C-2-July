@@ -4,7 +4,19 @@
   "components": [
     {
       "_id": "page.fieldset-bug-testing--fieldset",
-      "_type": "fieldset"
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.fieldset-bug-testing--fieldset--date.auto_name__1",
+          "_type": "date",
+          "label": "Required date",
+          "name": "auto_name__1"
+        }
+      ],
+      "legend": "Required date",
+      "namespace": "namespace_auto__1",
+      "repeatable": true,
+      "repeatableMaximum": 5
     }
   ],
   "heading": "Fieldset bug testing",
