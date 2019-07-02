@@ -1,0 +1,12 @@
+{
+  "_id": "page.fieldset-bug-testing",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.fieldset-bug-testing--fieldset",
+      "_type": "fieldset"
+    }
+  ],
+  "heading": "Fieldset bug testing",
+  "url": "fieldset-bug-testing"
+}
